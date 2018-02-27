@@ -10,7 +10,13 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
     - [Geospatial](#geospatial)
     - [Web Services](#web-services)
 
+## Companies
+* [Atoka](https://atoka.io/it/) 
+* [OpenDataImpactMap](http://www.opendataimpactmap.org/map.html)
+* [OpenData500](http://www.opendata500.com/)
+
 ## Geospatial
+    * [Lidar Trento](http://www.lidar.provincia.tn.it:8081/WebGisIT/pages/webgis.faces)
 
 ## Web Services
 
