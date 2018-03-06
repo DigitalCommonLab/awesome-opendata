@@ -17,6 +17,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 
 ## Geospatial
 * [Lidar Trento](http://www.lidar.provincia.tn.it:8081/WebGisIT/pages/webgis.faces)
+* [Places205](http://places2.csail.mit.edu/download.html) 
 
 ## Web Services
 
