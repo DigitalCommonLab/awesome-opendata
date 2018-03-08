@@ -15,6 +15,9 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [OpenDataImpactMap](http://www.opendataimpactmap.org/map.html)
 * [OpenData500](http://www.opendata500.com/)
 
+## Society
+* [Jobs](http://fabbisogni.isfol.it/scheda.php?id_menu=4&id=5.2.2.1.0&limite=1)
+
 ## Geospatial
 * [Lidar Trento](http://www.lidar.provincia.tn.it:8081/WebGisIT/pages/webgis.faces)
 * [Places205](http://places2.csail.mit.edu/download.html), [Github](https://github.com/CSAILVision/places365)
