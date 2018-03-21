@@ -22,6 +22,6 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [Lidar Trento](http://www.lidar.provincia.tn.it:8081/WebGisIT/pages/webgis.faces)
 * [Places205](http://places2.csail.mit.edu/download.html), [Github](https://github.com/CSAILVision/places365)
 
-## Web Services
+## Transports
+* [European transport operators](https://github.com/public-transport/european-transport-operators#country-feeds)
 
-### 
