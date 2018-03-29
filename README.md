@@ -25,3 +25,5 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 ## Transports
 * [European transport operators](https://github.com/public-transport/european-transport-operators#country-feeds)
 
+## Online Tools
+* [positional plausibility of POIs in OpenStreetMap](http://openstreetmap.me/)
