@@ -27,3 +27,4 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 
 ## Online Tools
 * [positional plausibility of POIs in OpenStreetMap](http://openstreetmap.me/)
+* [generate printable maps from OpenStreetMap](https://maposmatic.osm-baustelle.de/)
