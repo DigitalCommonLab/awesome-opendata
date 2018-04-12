@@ -30,3 +30,4 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [positional plausibility of POIs in OpenStreetMap](http://openstreetmap.me/)
 * [generate printable maps from OpenStreetMap](https://maposmatic.osm-baustelle.de/)
 * [Enigma.com - Explore the world’s broadest repository of public data](https://public.enigma.com/)
+* [Combine OpenStreetMap and Wikidata](https://sophox.org/sophox/)
