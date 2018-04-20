@@ -17,7 +17,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 
 ## Society
 * [Jobs](http://fabbisogni.isfol.it/scheda.php?id_menu=4&id=5.2.2.1.0&limite=1)
-* [Azienda Provinciale per i Servizi Sanitari](https://servizi.apss.tn.it/)
+* [Azienda Provinciale per i Servizi Sanitari - Trento](https://servizi.apss.tn.it/)
 
 ## Geospatial
 * [Lidar Trento](http://www.lidar.provincia.tn.it:8081/WebGisIT/pages/webgis.faces)
