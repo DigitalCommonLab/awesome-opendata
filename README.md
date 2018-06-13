@@ -27,6 +27,10 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [European transport operators](https://github.com/public-transport/european-transport-operators#country-feeds)
 * [Trentino Mobilita](http://www.trentinomobilita.it/parcheggi-strisce-blu/trento)
 
+## Software
+* [mysql2sqlite](https://github.com/dumblob/mysql2sqlite)
+
+
 ## Online Tools
 * [positional plausibility of POIs in OpenStreetMap](http://openstreetmap.me/)
 * [generate printable maps from OpenStreetMap](https://maposmatic.osm-baustelle.de/)
@@ -34,12 +38,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [Combine OpenStreetMap and Wikidata](https://sophox.org/sophox/)
 * [Openstreetmap tag history analyzer](https://ohsome.org/apps/kll-dashboard-preview/)
 
-## Software
-* [mysql2sqlite](https://github.com/dumblob/mysql2sqlite)
-
-
 ## Online API, meta-data, frameworks.
-
 * [Socrata Open Data API allows you to programmatically access](https://dev.socrata.com/)
 * [FrictionlessData.io](https://frictionlessdata.io/)
 * [Data.world API ](https://apidocs.data.world/)
