@@ -14,10 +14,10 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 
 Need a better name for this section. It is important. We mean API specs and not so much API instances.
 
-* https://dev.socrata.com/
-* https://frictionlessdata.io/
-* https://apidocs.data.world/
-* https://www.openbanking.org.uk/open-data-apis/
+* [Socrata Open Data API allows you to programmatically access](https://dev.socrata.com/)
+* [FrictionlessData.io](https://frictionlessdata.io/)
+* [Data.world API ](https://apidocs.data.world/)
+* [Openbanking API](https://www.openbanking.org.uk/open-data-apis/)
 
 ## Companies
 * [Atoka](https://atoka.io/it/) 
