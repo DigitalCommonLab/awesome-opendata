@@ -10,15 +10,6 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
     - [Geospatial](#geospatial)
     - [Web Services](#web-services)
 
-## Open Data API specifications, discovery/publishing and meta-data frameworks etc.
-
-Need a better name for this section. It is important. We mean API specs and not so much API instances.
-
-* [Socrata Open Data API allows you to programmatically access](https://dev.socrata.com/)
-* [FrictionlessData.io](https://frictionlessdata.io/)
-* [Data.world API ](https://apidocs.data.world/)
-* [Openbanking API](https://www.openbanking.org.uk/open-data-apis/)
-
 ## Companies
 * [Atoka](https://atoka.io/it/) 
 * [OpenDataImpactMap](http://www.opendataimpactmap.org/map.html)
@@ -46,3 +37,10 @@ Need a better name for this section. It is important. We mean API specs and not 
 ## Software
 * [mysql2sqlite](https://github.com/dumblob/mysql2sqlite)
 
+
+## Online API, meta-data, frameworks.
+
+* [Socrata Open Data API allows you to programmatically access](https://dev.socrata.com/)
+* [FrictionlessData.io](https://frictionlessdata.io/)
+* [Data.world API ](https://apidocs.data.world/)
+* [Openbanking API](https://www.openbanking.org.uk/open-data-apis/)
