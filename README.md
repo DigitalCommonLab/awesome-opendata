@@ -37,6 +37,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [Enigma.com - Explore the world’s broadest repository of public data](https://public.enigma.com/)
 * [Combine OpenStreetMap and Wikidata](https://sophox.org/sophox/)
 * [Openstreetmap tag history analyzer](https://ohsome.org/apps/kll-dashboard-preview/)
+* [Get the OpenStreetMap data you want in the file format you need](https://osmaxx.hsr.ch/)
 
 ## Online API, meta-data, frameworks.
 * [Socrata Open Data API allows you to programmatically access](https://dev.socrata.com/)
