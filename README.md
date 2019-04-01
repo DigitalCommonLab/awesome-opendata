@@ -36,6 +36,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [mysql2sqlite](https://github.com/dumblob/mysql2sqlite)
 
 ## Online Tools
+* [Mapnificent public transport isochrones](https://www.mapnificent.net/)
 * [positional plausibility of POIs in OpenStreetMap](http://openstreetmap.me/)
 * [generate printable maps from OpenStreetMap](https://maposmatic.osm-baustelle.de/)
 * [Enigma.com - Explore the world’s broadest repository of public data](https://public.enigma.com/)
