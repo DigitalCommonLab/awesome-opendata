@@ -23,6 +23,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [Azienda Provinciale per i Servizi Sanitari - Trento](https://servizi.apss.tn.it/)
 
 ## Geospatial
+* [IGM aerofototeca](http://www.iccdold.beniculturali.it/aerofototeca/)
 * [WebMap Comune di Trento](https://webapps.comune.trento.it/gis/mobile/ol4/index.html)
 * [Lidar Trento](http://www.lidar.provincia.tn.it:8081/WebGisIT/pages/webgis.faces)
 * [Places205](http://places2.csail.mit.edu/download.html), [Github](https://github.com/CSAILVision/places365)
