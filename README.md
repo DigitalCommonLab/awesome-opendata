@@ -12,7 +12,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 
 ## OpenStreetMap
 * [World Sharding Tree](https://apple.ent.box.com/s/3k3wcc0lq1fhqgozxr4mdi0llf95byo3)
-
+* [OSM History Explorer](https://ohsome.org/apps/osm-history-explorer/)
 ## Companies
 * [Atoka](https://atoka.io/it/) 
 * [OpenDataImpactMap](http://www.opendataimpactmap.org/map.html)
