@@ -36,6 +36,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 ## Software
 * [parsing OSM PBF files and extracting geographic data](https://github.com/missinglink/pbf)
 * [mysql2sqlite](https://github.com/dumblob/mysql2sqlite)
+* [tms downloder to mbtiles](https://github.com/vokkim/xyz-to-mbtiles)
 
 ## Online Tools
 * [Mapnificent public transport isochrones](https://www.mapnificent.net/)
