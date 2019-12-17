@@ -33,10 +33,11 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [European transport operators](https://github.com/public-transport/european-transport-operators#country-feeds)
 * [Trentino Mobilita](http://www.trentinomobilita.it/parcheggi-strisce-blu/trento)
 
-## Software
-* [parsing OSM PBF files and extracting geographic data](https://github.com/missinglink/pbf)
-* [mysql2sqlite](https://github.com/dumblob/mysql2sqlite)
-* [tms downloder to mbtiles](https://github.com/vokkim/xyz-to-mbtiles)
+## Online API, meta-data, frameworks.
+* [Socrata Open Data API allows you to programmatically access](https://dev.socrata.com/)
+* [FrictionlessData.io](https://frictionlessdata.io/)
+* [Data.world API ](https://apidocs.data.world/)
+* [Openbanking API](https://www.openbanking.org.uk/open-data-apis/)
 
 ## Online Tools
 * [Mapnificent public transport isochrones](https://www.mapnificent.net/)
@@ -47,8 +48,7 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
 * [Openstreetmap tag history analyzer](https://ohsome.org/apps/kll-dashboard-preview/)
 * [Get the OpenStreetMap data you want in the file format you need](https://osmaxx.hsr.ch/)
 
-## Online API, meta-data, frameworks.
-* [Socrata Open Data API allows you to programmatically access](https://dev.socrata.com/)
-* [FrictionlessData.io](https://frictionlessdata.io/)
-* [Data.world API ](https://apidocs.data.world/)
-* [Openbanking API](https://www.openbanking.org.uk/open-data-apis/)
+## Software Tools
+* [parsing OSM PBF files and extracting geographic data](https://github.com/missinglink/pbf)
+* [mysql2sqlite](https://github.com/dumblob/mysql2sqlite)
+* [tms downloder to mbtiles](https://github.com/vokkim/xyz-to-mbtiles)
