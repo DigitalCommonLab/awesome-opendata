@@ -11,8 +11,10 @@ A curated list of awesome Open Data resources, tools and other awesomeness.
     - [Web Services](#web-services)
 
 ## OpenStreetMap
+* [OpenStreetMap data divided by italian regions](http://www.geodati.fmach.it/italia_osm.html)
 * [World Sharding Tree](https://apple.ent.box.com/s/3k3wcc0lq1fhqgozxr4mdi0llf95byo3)
 * [OSM History Explorer](https://ohsome.org/apps/osm-history-explorer/)
+
 ## Companies
 * [Atoka](https://atoka.io/it/) 
 * [OpenDataImpactMap](http://www.opendataimpactmap.org/map.html)
